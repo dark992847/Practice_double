@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class day1 {
 	@Test
 	public void carLoanApi() {
-		System.out.println("chaman sharma");
+		System.out.println("aakil kaamchor");
 	}
 	@Test
 	public void carLoanWeb() {
